@@ -1,0 +1,12 @@
+Git is a version control system.
+Git is free software.
+cao1
+cao2
+cao3
+<<<<<<< HEAD
+cao5
+=======
+cao4
+>>>>>>> feature1
+cao6
+cao7
